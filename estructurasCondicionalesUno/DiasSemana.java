@@ -9,6 +9,7 @@ public class DiasSemana {
 
         /* Escribe un programa en que dado un número del 1 a 7 escriba el 
         correspondiente nombre del día de la semana. */
+        
         System.out.print("Escribe el número correspondiente al día de la semana: ");
         int dia = s.nextByte();
 
