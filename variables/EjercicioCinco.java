@@ -7,6 +7,7 @@ public class EjercicioCinco {
         /* Escribe un programa que calcule el total de una factura a partir de 
         la base imponible (precio sin IVA). La base imponible estará almacenada 
         en una variable.*/
+        
         double bimponible = 100;
         double ivaresta = 0.21;
         double ivasuma = 1.21;
