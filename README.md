@@ -1,19 +1,21 @@
 <h2> Ejercicios básicos de Java! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://67.media.tumblr.com/1dd030b239a5dc3534012a00423f3588/tumblr_o52aqu3BLG1ttph68o1_500.gif" width="230">
-<p><em>Studing web programming at <a href="https://www.monlau.com/">Escola Monlau Barcelona</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Intern at <a href="https://www.m-automocion.com/">M-Automoción</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em> Pequeñas actividades realizadas durante mi tiempo de estudio con Java en la plataforma Netbeans. </em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Recomiendo seguir el siguiente orden:  
 
 ```java
-public class AboutMe {
+public class Activities {
   public static void main(String[] args) {
-    final String ME = "Alejandro 🙋‍♂️";
-    final String[] LANGUAGES = {"Java", "C++" /*a little*/, "SQL", "HTML", "CSS"};
-    final String[] BASICS = {"Bootstrap", "XML", "RSS", "Xquery"};
-    final String[] TOURISM = {"Amadeus"};
-    final String[] INTERESTS = {"Videogames 🐉", "Coding 💻", "China 🏯", "Food 🥮"};
-    final String INFO = "I have studied in Japan and lived in China.";
+    final String[] ActivityOne = {"Java"};
+    final String[] ActivityOne = {"Java"};
+    final String[] ActivityOne = {"Java"};
+    final String[] ActivityOne = {"Java"};
+    final String[] ActivityOne = {"Java"};
+    final String[] ActivityOne = {"Java"};
+    final String[] ActivityOne = {"Java"};
+    final String[] ActivityOne = {"Java"};
+    final String[] ActivityOne = {"Java"};
+    final String[] ActivityOne = {"Java"};
   }
 }
 
