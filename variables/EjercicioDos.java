@@ -6,6 +6,7 @@ public class EjercicioDos {
 
         /* Crea la variable nombre y asígnale tu nombre completo. Muestra su 
         valor por pantalla. */
+        
         String nombre = "Alejandro Gómez";
 
         System.out.println(nombre);
