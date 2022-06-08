@@ -11,6 +11,7 @@ public class Ecuacion2 {
         Scanner s = new Scanner(System.in);
 
         /* Realiza un programa que resuelva una ecuación de segundo grado (del tipo ax2 + bx + c = 0). */
+        
         System.out.println("Este programa resuelve ecuaciones de segundo grado del tipo ax2 + bx + c = 0");
 
         System.out.print("Por favor introdusca el valor de a: ");
