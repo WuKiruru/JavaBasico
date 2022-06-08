@@ -25,6 +25,7 @@ public class CalculadoraTiempo {
             o Los minutos transcurridos (horas * 60)
             o Los segundos transcurridos (minutos * 60)
         */
+        
         int actual = Integer.parseInt(JOptionPane.showInputDialog("Introduce el año en el que estamos"));
         int nacimiento = Integer.parseInt(JOptionPane.showInputDialog("Introduce el año en el que naciste"));
 
