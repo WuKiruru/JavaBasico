@@ -6,16 +6,17 @@
 ```java
 public class Activities {
   public static void main(String[] args) {
-    final String[] ActivityOne = {"Java"};
-    final String[] ActivityTwo = {"Java"};
-    final String[] ActivityThree = {"Java"};
-    final String[] ActivityFour = {"Java"};
-    final String[] ActivityFive = {"Java"};
-    final String[] ActivitySix = {"Java"};
-    final String[] ActivitySeven = {"Java"};
-    final String[] ActivityEight = {"Java"};
-    final String[] ActivityNine = {"Java"};
-    final String[] ActivityTen = {"Java"};
+    final String[] ActivityOne    = {"salidaDatosPantalla"};
+    final String[] ActivityTwo    = {"variables"};
+    final String[] ActivityThree  = {"lecturaDatosTeclado"};
+    final String[] ActivityFour   = {"cuadrosDeDialogo"};
+    final String[] ActivityFive   = {"estructurasCondicionalesUno"};
+    final String[] ActivitySix    = {"estructurasCondicionalesDos"};
+    final String[] ActivitySeven  = {"estructurasCondicionalesTres"};
+    final String[] ActivityEight  = {"buclesUno"};
+    final String[] ActivityNine   = {"buclesDos"};
+    final String[] ActivityTen    = {"arrayUno"};
+    final String[] ActivityEleven = {"arrayDos"};
   }
 }
 
