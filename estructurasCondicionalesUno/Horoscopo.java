@@ -8,6 +8,7 @@ public class Horoscopo {
         Scanner s = new Scanner(System.in);
 
         /* Escribe un programa que nos diga el horóscopo a partir del día y el mes de nacimiento. */
+        
         System.out.println("¿Deseas saber tu horoscopo?");
 
         System.out.println("Selecciona en que rango de fechas es tu cumpleaños");
