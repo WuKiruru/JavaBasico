@@ -7,6 +7,7 @@ public class MostrarPalabrasIngles {
         /* Escribe un programa que muestre por pantalla 10 palabras en inglés 
         junto a su correspondiente traducción al castellano. Las palabras deben 
         estar distribuidas en dos columnas y alineadas a la izquierda. */
+        
         System.out.println("computer\tordenador");
         System.out.println("student\t\talumno\\a");
         System.out.println("cat\t\tgato");
