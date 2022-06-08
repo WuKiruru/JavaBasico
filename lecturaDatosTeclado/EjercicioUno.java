@@ -12,6 +12,7 @@ public class EjercicioUno {
         los solicite por pantalla al usuario, que podrá introducir cualquier valor. 
         A continuación, se mostrará por pantalla los valores leídos, la suma, la resta, 
         la división y la multiplicación.*/
+        
         System.out.print("Introduce la variable x con la que quiere operar: ");
         int x = s.nextInt();
         System.out.print("Introduce la variable y con la que quiere operar: ");
