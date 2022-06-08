@@ -6,6 +6,7 @@ public class HorarioClaseColores {
         
         /* Modifica el programa anterior añadiendo colores. Puedes mostrar cada 
         asignatura de un color diferente */
+        
         System.out.println("\033[33mLunes\tMartes\tMierc.\tJueves\tViernes");
         System.out.println("=====\t=====\t=====\t=====\t=====");
         System.out.println("\033[32mPROG\tPROG\tPROG\tPROG\t\033[31mSIN");
