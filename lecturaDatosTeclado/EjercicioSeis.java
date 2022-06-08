@@ -11,6 +11,7 @@ public class EjercicioSeis {
         variables de tipo char y el valor de la variable de tipo String. Muéstralas 
         por pantalla todas juntas en la misma línea y con una sola sentencia de Java
         (con un solo println. */
+        
         System.out.print("Porfavor, introduce tú nombre completo: ");
         String nombre = s.next();
         System.out.print("Porfavor, introduce la primera letra de tu nombre: ");
