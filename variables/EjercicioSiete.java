@@ -8,6 +8,7 @@ public class EjercicioSiete {
         otra variable como cadena de caracteres y asígnale como valor la concatenación
         de las anteriores 5 variables. Por último, muestra la cadena de caracteres
         por pantalla ¿Qué problemas te encuentras? ¿cómo lo has solucionado. */
+        
         char letra1 = 's';
         char letra2 = 'p';
         char letra3 = 'a';
