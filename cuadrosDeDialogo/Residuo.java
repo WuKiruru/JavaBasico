@@ -14,6 +14,7 @@ public class Residuo {
             o A través de un cuadro de diálogo (showMessageDialog), el resto de x/y, o esa, 
             hay que realizar la operación % 
         */
+        
         int datoUno = Integer.parseInt(JOptionPane.showInputDialog("Introduce el valor de la variable X:"));
         int datoDos = Integer.parseInt(JOptionPane.showInputDialog("Introduce el valor de la variable Y:"));
 
