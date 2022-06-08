@@ -21,6 +21,7 @@ public class Promedio {
             o a través de un cuadro de diálogo (showMessageDialog), la nota promedio del 
             alumno. En el mensaje debe aparecer el nombre del alumno.
         */
+        
         String Nombre = JOptionPane.showInputDialog("Escribe el nombre del alumno");
         double notaUno = Double.parseDouble(JOptionPane.showInputDialog("Escribe la primera nota del alumno"));
         double notaDos = Double.parseDouble(JOptionPane.showInputDialog("Escribe la segunda nota del alumno"));
