@@ -11,6 +11,7 @@ public class Saludos {
         buenos días, buenas tardes o noches según la hora. Se utilizarán los tramos 
         de 6 a 12, de 13 a 20 y de 21 a 5 respectivamente. Sólo se tienen en cuenta 
         las horas, los minutos no se deben introducir por teclado. */
+        
         System.out.print("¿Qué hora es? (Sin los minutos) ");
         int hora = s.nextInt();
 
