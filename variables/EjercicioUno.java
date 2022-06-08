@@ -8,6 +8,7 @@ public class EjercicioUno {
         Asígnales los valores 144 y 999 respectivamente. A continuación, muestra 
         por pantalla el valor de cada variable, la suma, la resta, la división y 
         la multiplicación. */
+        
         int x = 10;
         int y = 2;
         int suma = x + y;
