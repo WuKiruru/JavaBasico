@@ -6,6 +6,7 @@ public class EjercicioTres {
         
         /* Crea las variables nombre, direccion y telefono y asígnales los 
         valores correspondientes. Muestra los valores de esas variables por pantalla. */
+        
         String nombre = "Alejandro";
         String direccion = "Calle Barcelona, número 12";
         int telefono = 933453789;
