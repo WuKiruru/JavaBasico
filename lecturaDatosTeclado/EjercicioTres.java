@@ -13,6 +13,7 @@ public class EjercicioTres {
         
         /* ¡¡Por defecto salta error en la compilación, introduce los datos 
         sin espacios!! */
+        
         System.out.print("Porfavor introduce tu nombre completo: ");
         String nombre = s.next();
         System.out.print("Porfavor introduce tu dirección: ");
